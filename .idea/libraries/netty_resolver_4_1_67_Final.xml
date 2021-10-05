@@ -1,0 +1,51 @@
+<component name="libraryTable">
+  <library name="netty-resolver-4.1.67.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-resolver-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/auto-common-1.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/auto-service-annotations-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-transport-native-kqueue-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/jakarta.activation-1.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-transport-native-unix-common-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-api-1.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-sdk-common-1.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-handler-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-sdk-1.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/guava-30.1.1-jre.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-api-metrics-1.5.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/jsr305-3.0.2.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/j2objc-annotations-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-codec-http-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/byte-buddy-1.11.13.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-codec-socks-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-transport-native-epoll-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/jcommander-1.81.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-context-1.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-codec-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/checker-qual-3.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-handler-proxy-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-buffer-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-sdk-extension-autoconfigure-1.5.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/auto-service-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/async-http-client-2.12.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-exporter-logging-1.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/commons-exec-1.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/async-http-client-netty-utils-2.12.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-reactive-streams-2.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-transport-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/netty-common-4.1.67.Final.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/jtoml-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/error_prone_annotations-2.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-sdk-trace-1.5.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-semconv-1.5.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/opentelemetry-sdk-metrics-1.5.0-alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/selenium dependencies/libraries/lib/slf4j-api-1.7.32.jar!/" />
+      <root url="file://$USER_HOME$/Documents/selenium dependencies/libraries/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Documents/selenium dependencies/libraries/lib" recursive="false" />
+  </library>
+</component>
